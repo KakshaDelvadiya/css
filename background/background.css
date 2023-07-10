@@ -1,0 +1,35 @@
+div{
+height: 500px;
+}
+.background-color{
+    background-color: blueviolet;
+  
+}
+.background-img{
+    background-image:url(https://d4.alternativeto.net/u6-Vdi-wrLbpZVYgdsKeDzG0aYRqwA5o5k63rsx6gtM/rs:fill:200:200:0/g:ce:0:0/YWJzOi8vZGlzdC9zLzhjNzljYjExLWZkOTctZTMxMS04OWNlLTAwMjU5MGEwNWY1Zl8yX2Z1bGwuanBn.jpg);
+}
+.background-attachment{
+    background-image:url(https://d4.alternativeto.net/u6-Vdi-wrLbpZVYgdsKeDzG0aYRqwA5o5k63rsx6gtM/rs:fill:200:200:0/g:ce:0:0/YWJzOi8vZGlzdC9zLzhjNzljYjExLWZkOTctZTMxMS04OWNlLTAwMjU5MGEwNWY1Zl8yX2Z1bGwuanBn.jpg);
+    background-attachment:fixed;
+}
+.background-repeat{
+    background-image:url(https://d4.alternativeto.net/u6-Vdi-wrLbpZVYgdsKeDzG0aYRqwA5o5k63rsx6gtM/rs:fill:200:200:0/g:ce:0:0/YWJzOi8vZGlzdC9zLzhjNzljYjExLWZkOTctZTMxMS04OWNlLTAwMjU5MGEwNWY1Zl8yX2Z1bGwuanBn.jpg);
+    background-repeat: no-repeat;
+}
+.background-position{
+    background-image:url(https://d4.alternativeto.net/u6-Vdi-wrLbpZVYgdsKeDzG0aYRqwA5o5k63rsx6gtM/rs:fill:200:200:0/g:ce:0:0/YWJzOi8vZGlzdC9zLzhjNzljYjExLWZkOTctZTMxMS04OWNlLTAwMjU5MGEwNWY1Zl8yX2Z1bGwuanBn.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position:100px;
+}
+.background-size{
+    background-image:url(https://d4.alternativeto.net/u6-Vdi-wrLbpZVYgdsKeDzG0aYRqwA5o5k63rsx6gtM/rs:fill:200:200:0/g:ce:0:0/YWJzOi8vZGlzdC9zLzhjNzljYjExLWZkOTctZTMxMS04OWNlLTAwMjU5MGEwNWY1Zl8yX2Z1bGwuanBn.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;    
+}
+.background{
+    background:url(https://d4.alternativeto.net/u6-Vdi-wrLbpZVYgdsKeDzG0aYRqwA5o5k63rsx6gtM/rs:fill:200:200:0/g:ce:0:0/YWJzOi8vZGlzdC9zLzhjNzljYjExLWZkOTctZTMxMS04OWNlLTAwMjU5MGEwNWY1Zl8yX2Z1bGwuanBn.jpg);
+}
+.background-flag{
+    background: linear-gradient(100deg,orange,white,green);
+}
