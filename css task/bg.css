@@ -1,0 +1,9 @@
+
+.background{
+    background: linear-gradient(rgba(255, 192, 203, 0.434), rgba(255, 105, 180, 0.315), rgba(255, 192, 203, 0.342)), url(https://www.silhouette.pics/images/quotes/english/general/cake-logos-silhouette-52650-200307.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 600px;
+    width: 100%;
+}
