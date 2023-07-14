@@ -1,0 +1,15 @@
+div{
+    border: solid 5px;
+}
+.padding{
+    padding: 100px 50px;
+}
+.marging{
+    padding: 20px;
+    margin: 100px ;
+}
+.box{
+    padding: 20px;
+    margin: auto;
+    width: 500px;
+}
