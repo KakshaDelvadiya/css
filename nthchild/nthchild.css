@@ -1,0 +1,15 @@
+tr:nth-child(odd){
+    background-color: hotpink;
+}
+tr:nth-child(even){
+    background-color: hotpink;
+}
+tr:nth-child(2n + 1){
+    background-color: pink;
+}
+tr:first-child{
+    background-color: darkmagenta;
+}
+tr:last-child{
+    background-color: darkmagenta;
+}
