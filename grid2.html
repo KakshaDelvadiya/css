@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        section{
+            background: linear-gradient(100deg ,hotpink,pink,hotpink);
+            height: 800px;
+        }
+        .conteiner{
+            width: 1200px;
+            margin: 0 auto;
+            border:  solid 1px;
+            display: grid;
+            text-align: center;
+            grid-template-columns: repeat(10, 1fr);
+            
+        }
+        .logo{
+            border: solid 1px;
+            background-color: rgb(181, 144, 234);
+            font-size: 20px;
+            grid-column: span 2;
+            padding: 10px 0;
+            order: 2;
+            color: white;
+            border-color: black;
+        }
+        .nav{
+            border: solid 1px ;
+            background-color:rgb(181, 144, 234);
+            font-size: 20px;
+            grid-column: span 8;
+            padding: 10px 0;
+            order: 1;
+            color: white;
+            border-color: black;
+        }
+        .head{
+            border: solid 1px;
+            background-color: rgb(181, 144, 234); 
+            grid-column: span 10;
+            padding: 10px 0;
+            order: 3;
+            color: white;
+            border-color: black;
+        }
+
+    </style>
+</head>
+<body>
+    <section>
+        <div class="conteiner">
+            <div  class="logo">
+                Logo
+            </div>
+            <div class="nav">
+                Nav
+            </div>
+            <div class="head">
+                <h1>Lorem ipsum dolor sit amet.</h1>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
